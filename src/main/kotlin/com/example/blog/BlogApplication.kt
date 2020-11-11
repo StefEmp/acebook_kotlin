@@ -1,11 +1,11 @@
-package com.example.landing_page
+package com.example.blog
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class LandingPageApplication
+class BlogApplication
 
 fun main(args: Array<String>) {
-	runApplication<LandingPageApplication>(*args)
+	runApplication<BlogApplication>(*args)
 }

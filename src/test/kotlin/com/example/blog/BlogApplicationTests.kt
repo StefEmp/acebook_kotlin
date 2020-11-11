@@ -1,10 +1,10 @@
-package com.example.landing_page
+package com.example.blog
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class LandingPageApplicationTests {
+class BlogApplicationTests {
 
 	@Test
 	fun contextLoads() {

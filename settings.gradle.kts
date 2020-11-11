@@ -1,1 +1,1 @@
-rootProject.name = "landing_page"
+rootProject.name = "blog"
