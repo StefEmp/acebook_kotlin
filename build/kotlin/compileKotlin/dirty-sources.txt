@@ -1,0 +1,4 @@
+/Users/stephaneemptage/Desktop/Repos/acebook/landing_page/acebook_kotlin/src/main/kotlin/com/example/blog/Repositories.kt
+/Users/stephaneemptage/Desktop/Repos/acebook/landing_page/acebook_kotlin/src/main/kotlin/com/example/blog/LandingController.kt
+/Users/stephaneemptage/Desktop/Repos/acebook/landing_page/acebook_kotlin/src/main/kotlin/com/example/blog/Entities.kt
+/Users/stephaneemptage/Desktop/Repos/acebook/landing_page/acebook_kotlin/src/main/kotlin/com/example/blog/BlogApplication.kt
